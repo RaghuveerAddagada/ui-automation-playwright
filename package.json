@@ -1,0 +1,23 @@
+{
+  "name": "ui-automation-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaghuveerAddagada/ui-automation-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RaghuveerAddagada/ui-automation-playwright/issues"
+  },
+  "homepage": "https://github.com/RaghuveerAddagada/ui-automation-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.5.2"
+  }
+}
